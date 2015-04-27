@@ -164,7 +164,7 @@ a:active, a:visited {
 }
 
 #bunny img {
-  width: 500px;
+  width: 300px;
 }
 
 /* Mailing List Modal Box */
@@ -328,12 +328,8 @@ a:active, a:visited {
   }
 
   /* Main Content */
-  #main-title {
-    font-size: 150px;
-  }
-
-  #main-subtitle {
-    font-size: 25px;
+  #bunny img {
+    width: 500px;
   }
   
     /* Disclaimer and Copyright */
