@@ -175,6 +175,7 @@ a:active, a:visited {
   border-radius: 10px;
   padding: 0;
   position: absolute;
+  top: -50%;
 
 #navbar ul ul li {
   float: none;
