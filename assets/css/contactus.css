@@ -224,6 +224,7 @@ a:active, a:visited {
   float: left;
   width: 150px;
   margin-top: 50px;
+  text-align: left;
 }
 
 #right {
